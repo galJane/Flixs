@@ -17,7 +17,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="http://g.recordit.co/WU4S2iTxI4.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+I keep on having to debug this green thread a couple of times, but I was able to debug it with disactive breakpoints button.
 
 ---
 
@@ -36,4 +36,4 @@ Describe any challenges encountered while building the app.
 <img src="http://g.recordit.co/enojaO7LFA.gif" width=250><br>
 
 ### Notes
-For a good while I was trying to push all files to my github, but it wouldnt push the pods files. I end up just uploading the flies instead I hope it wont make a difference for you. If it dose please tell me for I wont do it again for futher projects or if you want me to try again to push all of it to github. 
+Github gave me a rought time for awhile, but I figure it out.
